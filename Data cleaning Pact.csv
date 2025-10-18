@@ -1,0 +1,14 @@
+id,Age,Nationality,Purchase,Salary
+D0001,26,Indi,yes,35000
+D0002,2,Australia,no,43000
+D0005,26,China,yes,31000
+D0006,35,Australia,no,48000
+D0008,24,India,no,26000
+D0009,27,Germany,no,36000
+D00010,25,Germany,no,32000
+D00011,29,Germany,Yes,39000
+D00011,29,Germany,Yes,39000
+D00021,30,India,Yes,
+D00021,30,India,n/a,30000
+D00021,30,India,Yes,31000
+D00028,31,China,Yes,33000
